@@ -1,0 +1,21 @@
+@media (max-width:600px) {
+
+  .products{
+    display: inherit;
+    height: auto;
+  }
+  .produc{
+    margin-top: auto;
+  }
+  section{
+    display:inherit;
+    margin-top: 20px;
+  }
+  .section2{
+    display:inherit;
+  }
+  .mencionesimg{
+  margin: auto;
+  text-align: center;
+  }
+}
